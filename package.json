@@ -1,0 +1,25 @@
+{
+  "name": "server-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^4.6.7",
+    "restify": "^7.2.1",
+    "restify-plugins": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacktrue/node-server-mail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacktrue/node-server-mail/issues"
+  },
+  "homepage": "https://github.com/blacktrue/node-server-mail#readme"
+}
